@@ -1,4 +1,5 @@
 # SampleSuperstore_EDA
+
 To Perform ‘Exploratory Data Analysis’ on dataset ‘SampleSuperstore’ using Power BI
 As a business manager, try to find out the weak areas where you can
 work to make more profit.
@@ -9,3 +10,5 @@ For this, we have created 2 dashboards:
   (ii)Showing the Region-Wise drill down along with State-wise and Country-wise statistics.
   
 A power point presentation is added listing the weak areas and the solutions that can be applied for the same.
+
+This is my first attempt to perform EDA and build dashboard using Power BI. Suggestions are welcomed.
